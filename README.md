@@ -2,4 +2,4 @@
 
 This repository is designed to verify the automation of Copilot reviewer settings.
 
-![setting](image.png)
+![Copilot review automation workflow diagram](image.png)
